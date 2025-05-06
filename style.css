@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+.JsxExemple {
+    border: 2px solid #f13fcf;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: pink;
+}
