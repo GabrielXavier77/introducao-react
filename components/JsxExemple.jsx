@@ -2,16 +2,16 @@ import { use } from "react"
 import "../style.css"
 
 export default function JsxExemple() {
-    const name = "react"
+    const name = "React"
     const user = {
         'firstName': 'Maria',
         'lastName': 'Silva'
     }
 
     return (
-        <div className="JsxExemple">
+        <div className="jsx-exemple">
             <h2>Exemplo JSX</h2>
-            <p>Olá, {name}</p>
+            <p>Olá, {name}!</p>
             <p>
                 Usuario: {user.firstName} {user.lastName}
             </p>

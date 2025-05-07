@@ -5,9 +5,17 @@
     margin-bottom: 15px;
 }
 
-.JsxExemple {
+.jsx-exemple {
     border: 2px solid #f13fcf;
     border-radius: 20px;
     padding: 10px;
     background-color: pink;
+}
+
+.welcome {
+    border: 2px solid #1F0322;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #8A1C7C;
+    color: white;
 }

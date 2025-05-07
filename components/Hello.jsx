@@ -1,7 +1,7 @@
 import "../style.css"
 
-export default function Hello({nome}) {
+export default function Hello({name}) {
     return (
-        <p>Olá, {nome}! Seja bem-vindo ao React!</p>
+        <p>Olá, {name}! Seja bem-vindo ao React!</p>
     )
 }
